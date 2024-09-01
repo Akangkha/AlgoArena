@@ -1,4 +1,4 @@
-# MLSA ALGO ARENA
+0# MLSA ALGO ARENA
 
 ![Home Page](https://github.com/VinamraSaurav/AlgoArena/assets/80186642/19fd8666-9dab-41a1-88a5-6b0d3741791b)
 
@@ -12,7 +12,7 @@ This MLSA platform aims to offer **personalized learning journeys**, diverse edu
 
 ## ⚒️ Who did we build it for?
 
-This project has been built to encourage and engage **learners** with a curiosity to learn and experiment with their technical interests. This is an extraordinary opportunity for users looking to contribute, build connections,and gain a sense of accomplishment through leaderboards, certificates, badges, progress milestones, etc.
+This project has been built to encourage and engage **learners** with a curiosity to learn and experiment with their technical interests. This is an extraordinary opportunity for users looking to contribute, build connections,and gain a sense of accomplishment through leaderboards, certificates, badges, progress milestones etc.
 
 ## 📄 Key features :
 
